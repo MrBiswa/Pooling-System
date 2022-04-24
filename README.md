@@ -10,7 +10,7 @@ Steps for Publishing the website on the local host.
 
 
 Admin Login:
-Username : lokendra@admin.com
+Username : biswaranjan@admin.com
 Password : Admin
 
 Or You may change admin details in PHPMyadmin database.
@@ -22,3 +22,5 @@ Admin have all the access like
 4. Add Participants.
 5. Edit and Delete Participants.
 6. Nominee Details. etc
+
+in case if you are not able to login with admin account, try lokendra@admin.com.
